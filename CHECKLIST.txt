@@ -1,0 +1,5 @@
+                       VISA TO EXPLORE 
+1-HOME SCREEN: This is WELCOME SCREEN with all the Details of the App.
+2-EXPLORE SCREEN: Here we will add Different Countries using FLATLIST.
+3-COUNTRY SCREEN: here we will get the DETAILED INFORMATION about the Particular Country.
+4-CONTACT US SCREEN: here we will give the CONTACT DETAILS.
